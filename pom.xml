@@ -2,5 +2,10 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.sample</groupId>
   <artifactId>Automation</artifactId>
+<<<<<<< HEAD
+  <version>1.0.1-SNAPSHOT</version>
+</project>
+=======
   <version>0.1.1-SNAPSHOT</version>
 </project>
+>>>>>>> master
